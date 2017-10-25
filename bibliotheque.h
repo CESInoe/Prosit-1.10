@@ -6,7 +6,7 @@ typedef struct Fraction Fraction;
   {
      int numerator;
      int denominator;
-  }
+  };
 
 void read ();
 void divide (Fraction first, Fraction second);
