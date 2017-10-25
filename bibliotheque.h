@@ -1,7 +1,7 @@
 #ifndef BIBLIOTHEQUE_H_INCLUDED
 #define BIBLIOTHEQUE_H_INCLUDED
 
-typedef struct Fraction Fraction
+typedef struct Fraction Fraction;
   struct Fraction 
   {
      int numerator;
